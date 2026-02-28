@@ -9,12 +9,18 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a simple VGA cotnroller that displays text hs3.pl in small font. Due to size limitation small font have been crafted into silicon.
 
 ## How to test
 
-Explain how to use your project
+Connect VGA connector as shown in pinout list.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Pinch of AI and VGA monitor
+
+## Pinout
+
+ui	User input
+uo	User output
+uio	User input/output (bidirectional pins)
